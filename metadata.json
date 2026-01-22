@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hawlader Bank AI",
+  "description": "A premium banking AI assistant for Hawlader Bank, offering professional financial support and a friendly casual persona named Golpu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
